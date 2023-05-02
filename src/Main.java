@@ -13,19 +13,6 @@ public class Main {
 
 
     }
-//        Planets planets = Planets.MERCURY;
-//
-//        for (Planets planet : Planets.values()) {
-//            System.out.println(planet);
-//        }
-//    }
 
-//    public static void main(String[] args) {
-//        Earth details = Earth.DISTANCE_FROM_SUN;
-//
-//        for (Earth det : Earth.values()) {
-//            System.out.println(det);
-//        }
-//    }
 
 }
